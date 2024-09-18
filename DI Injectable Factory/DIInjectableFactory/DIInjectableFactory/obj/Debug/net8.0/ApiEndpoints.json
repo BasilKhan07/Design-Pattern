@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "DIInjectableFactory.Controllers.PaymentController",
+    "Method": "Pay",
+    "RelativePath": "makePayment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DIInjectableFactory.Controllers.DTO.PaymentRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
