@@ -1,0 +1,14 @@
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.exe
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.runtimeconfig.json
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.dll
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.pdb
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.dll
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\InteractCX\Desktop\Design Pattern\Factory Pattern\FactoryPattern\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll
